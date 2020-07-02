@@ -1,0 +1,6 @@
+{
+  "name": "react-data-grid-experience-builder",
+  "type": "exb-web-extension-repo",
+  "description": "This is a extension repository that contains the an example widget the uses the react-data-grid library.",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0"
+}
